@@ -1,4 +1,12 @@
 {
+        "Madex246251": {
+        "PaymentMode": "كاش",
+        "status": "جاري التسليم",
+        "location": "من الرمثا الى عمان",
+        "lastUpdated": "2024-07-29",
+        "ExpectedDeliveryDate": "2024-07-29 - 5:00PM",
+        "PickUpDate": "2024-07-28"
+    },
     "Madex1": {
         "PaymentMode": "كاش",
         "status": "تم التسليم",
