@@ -1,4 +1,12 @@
 {
+    "Madex24204": {
+        "PaymentMode": "كاش",
+        "status": "تم استلام الطلب: الطلب قد تم استلامه ومعالجته.",
+        "location": "الزرقاء",
+        "lastUpdated": "2024-08-1",
+        "ExpectedDeliveryDate": "2024-08-2 - 1:30PM",
+        "PickUpDate": "2024-08-01"
+    },
                   "Madex24203": {
         "PaymentMode": "كاش",
         "status": "تم استلام الطلب: الطلب قد تم استلامه ومعالجته.",
