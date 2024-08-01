@@ -1,34 +1,27 @@
 {
-    "Madex24204": {
-        "PaymentMode": "كاش",
-        "status": "تم استلام الطلب: الطلب قد تم استلامه ومعالجته.",
-        "location": "الزرقاء",
-        "lastUpdated": "2024-08-1",
-        "ExpectedDeliveryDate": "2024-08-2 - 1:30PM",
-        "PickUpDate": "2024-08-01"
-    },
-                  "Madex24203": {
+
+                  "Md240801001": {
         "PaymentMode": "كاش",
         "status": "تم استلام الطلب: الطلب قد تم استلامه ومعالجته.",
         "location": "عمان-الموقر",
         "lastUpdated": "2024-08-1",
-        "ExpectedDeliveryDate": "2024-08-2 - 1:30PM",
+        "ExpectedDeliveryDate": "2024-08-2",
         "PickUpDate": "2024-08-01"
     },
-          "Madex24202": {
+          "Md240801002": {
         "PaymentMode": "كاش",
         "status": "تم استلام الطلب: الطلب قد تم استلامه ومعالجته.",
         "location": "عمان-جبيهة",
         "lastUpdated": "2024-08-1",
-        "ExpectedDeliveryDate": "2024-08-2 - 1:00PM",
+        "ExpectedDeliveryDate": "2024-08-2",
         "PickUpDate": "2024-08-01"
     },
-        "Madex246251": {
+        "Md240728001": {
         "PaymentMode": "كاش",
         "status": "تم التسليم",
         "location": "عمان",
         "lastUpdated": "2024-07-29",
-        "ExpectedDeliveryDate": "2024-07-29 - 5:00PM",
+        "ExpectedDeliveryDate": "2024-07-29",
         "PickUpDate": "2024-07-28"
     },
     "Madex1": {
