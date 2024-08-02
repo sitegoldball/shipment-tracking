@@ -1,6 +1,3 @@
-# كتابة الملف بترميز UTF-8
-with open('file.json', 'w', encoding='utf-8') as f:
-    json.dump(data, f, ensure_ascii=False)
 {
           "Md24080101": {
         "PaymentMode": "كاش",
