@@ -1,20 +1,4 @@
 {
-  "11": {
-    "PaymentMode": "11",
-    "status": "11",
-    "location": "11",
-    "lastUpdated": "2024-08-02",
-    "ExpectedDeliveryDate": "2024-08-01",
-    "PickUpDate": "2024-08-29"
-  },
-  "55": {
-    "PaymentMode": "55",
-    "status": "55",
-    "location": "55",
-    "lastUpdated": "2024-08-02",
-    "ExpectedDeliveryDate": "2024-08-02",
-    "PickUpDate": "2024-08-02"
-  },
   "18171": {
     "PaymentMode": "كاش",
     "status": "تم التسليم",
