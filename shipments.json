@@ -10,7 +10,7 @@
   "111": {
     "PaymentMode": "تم تسليم",
     "status": "تم تسليم",
-    "location": "تم تسليم",
+    "location": "تم",
     "lastUpdated": "2024-08-02",
     "ExpectedDeliveryDate": "2024-08-02",
     "PickUpDate": "2024-08-02"
