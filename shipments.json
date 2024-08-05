@@ -862,5 +862,13 @@
     "lastUpdated": "",
     "ExpectedDeliveryDate": "",
     "PickUpDate": ""
+  },
+  "Md24080501": {
+    "PaymentMode": "كاش",
+    "status": "جاري التحضير: الطرد يتم تحضيره للشحن.",
+    "location": "المفرق",
+    "lastUpdated": "2024-08-05",
+    "ExpectedDeliveryDate": "2024-08-06",
+    "PickUpDate": ""
   }
 }
